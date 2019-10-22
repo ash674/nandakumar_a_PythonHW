@@ -12,7 +12,7 @@ clone the project navigate to the correct directory - cd doirectory name - and r
 The rules are the same as the classic game :
 1. Paper Covers Rock
 2. Scissors cuts paper
-3. Rock smashed scissors
+3. Rock smashes scissors
 
 Choose your weapon wisely
 
