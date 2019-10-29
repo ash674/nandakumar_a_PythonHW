@@ -78,7 +78,7 @@ while player == False:
 	else:	
 		player = False
 		computer = choices[randint(0,2)]
-
+ 
 
 
 
